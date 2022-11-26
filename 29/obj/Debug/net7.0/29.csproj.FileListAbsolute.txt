@@ -1,0 +1,15 @@
+E:\CHW4\29\bin\Debug\net7.0\29.exe
+E:\CHW4\29\bin\Debug\net7.0\29.deps.json
+E:\CHW4\29\bin\Debug\net7.0\29.runtimeconfig.json
+E:\CHW4\29\bin\Debug\net7.0\29.dll
+E:\CHW4\29\bin\Debug\net7.0\29.pdb
+E:\CHW4\29\obj\Debug\net7.0\29.csproj.AssemblyReference.cache
+E:\CHW4\29\obj\Debug\net7.0\29.GeneratedMSBuildEditorConfig.editorconfig
+E:\CHW4\29\obj\Debug\net7.0\29.AssemblyInfoInputs.cache
+E:\CHW4\29\obj\Debug\net7.0\29.AssemblyInfo.cs
+E:\CHW4\29\obj\Debug\net7.0\29.csproj.CoreCompileInputs.cache
+E:\CHW4\29\obj\Debug\net7.0\29.dll
+E:\CHW4\29\obj\Debug\net7.0\refint\29.dll
+E:\CHW4\29\obj\Debug\net7.0\29.pdb
+E:\CHW4\29\obj\Debug\net7.0\29.genruntimeconfig.cache
+E:\CHW4\29\obj\Debug\net7.0\ref\29.dll
