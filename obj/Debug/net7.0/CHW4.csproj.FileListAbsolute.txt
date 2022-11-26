@@ -1,0 +1,15 @@
+E:\CHW4\bin\Debug\net7.0\CHW4.exe
+E:\CHW4\bin\Debug\net7.0\CHW4.deps.json
+E:\CHW4\bin\Debug\net7.0\CHW4.runtimeconfig.json
+E:\CHW4\bin\Debug\net7.0\CHW4.dll
+E:\CHW4\bin\Debug\net7.0\CHW4.pdb
+E:\CHW4\obj\Debug\net7.0\CHW4.csproj.AssemblyReference.cache
+E:\CHW4\obj\Debug\net7.0\CHW4.GeneratedMSBuildEditorConfig.editorconfig
+E:\CHW4\obj\Debug\net7.0\CHW4.AssemblyInfoInputs.cache
+E:\CHW4\obj\Debug\net7.0\CHW4.AssemblyInfo.cs
+E:\CHW4\obj\Debug\net7.0\CHW4.csproj.CoreCompileInputs.cache
+E:\CHW4\obj\Debug\net7.0\CHW4.dll
+E:\CHW4\obj\Debug\net7.0\refint\CHW4.dll
+E:\CHW4\obj\Debug\net7.0\CHW4.pdb
+E:\CHW4\obj\Debug\net7.0\CHW4.genruntimeconfig.cache
+E:\CHW4\obj\Debug\net7.0\ref\CHW4.dll
